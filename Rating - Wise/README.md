@@ -1,4 +1,4 @@
-It contain problems filtered on the basis of rating like -
+It contain Problems filtered on the basis of Rating like -
 
 1500 <= Codeforces Rating <= 1599 <br/>
 1600 <= Codeforces Rating <= 1699 <br/>
